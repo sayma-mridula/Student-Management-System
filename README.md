@@ -1,6 +1,6 @@
 # Student-Management-System
-<h1>Student Management System</h1>
-    <p>Welcome to the Student Management System repository! This project is a C++ application designed to streamline the management of student records. It offers functionalities to add, display, search, update, and delete student information efficiently.</p>
+
+#<p>Welcome to the Student Management System repository! This project is a C++ application designed to streamline the management of student records. It offers functionalities to add, display, search, update, and delete student information efficiently.</p>
 
     <h2>Features</h2>
     <ul>
