@@ -1,23 +1,47 @@
-# Student Management System
+# Animal-Husbandry-and-Fisheries-Management
 
-Welcome to the Student Management System project! This project is a C++ application designed to manage student records efficiently. It provides functionalities to add, display, search, update, and delete student information.
+The Student Management System is a comprehensive application implemented in C++ that facilitates the management of student records. It provides functionality to add, display, search, update, and delete student information, offering a convenient solution for educational institutions to organize their student data effectively.
 
-## Features
+# OOP features used for implementation
+1. Class
+2. Encapsulation
+3. Inheritance
+4. Polymorphism
+5. Constructor
+6. Nested function
+7. File I/O operation
+8. Operator Overloading
+9. Many more
+ 
+# Functionality
+1. Add new student records
+2. Display all student records
+3.Search for a specific student by roll number
+4. Update student information
+5. Delete a specific student record
+6. Delete all student records
 
-- **Add New Student**: Easily add new student records with details such as name, roll number, age, phone number, address, and email.
-- **Display All Students**: View a comprehensive list of all student records stored in the system.
-- **Search Student**: Quickly find a specific student by their roll number.
-- **Update Student**: Seamlessly update the information of existing student records.
-- **Delete Student**: Remove a student record based on their roll number.
-- **Delete All Students**: Optionally delete all student records from the system.
+ 
+# How to operate the system
 
-## Usage
+1. Compile the program using a C++ compiler.
+2. Run the compiled executable file.
+3. Follow the on-screen menu to navigate through the system's functionalities:
+      a. Add New Student: Enter student details when prompted.
+      b. Display All Students: View a list of all stored student records.
+      c. Search Student: Enter the roll number to find a specific student.
+      d. Update Student: Modify the information of an existing student.
+      e. Delete Student: Remove a specific student record from the system.
+      f. Delete All Students: Clear all student records from the system.
+      g. Exit: Terminate the program.
 
-1. **Compile**: Compile the source code using a C++ compiler (e.g., g++).
+# Usage
 
-   ```bash
-   g++ -o main main.cpp
+1. Compile and run the program.
+2. Run the compiled executable.
+3. Choose an option from the main section menu.
+4. Follow the prompts to  to manage student records effectively.
 
+# Requirements
 
-
-    
+This program requires a C++ compiler and the following libraries: `<bits/stdc++.h>`, `<conio.h>`, <fstream>`, <string>`.
