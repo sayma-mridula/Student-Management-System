@@ -1,4 +1,4 @@
-# Animal-Husbandry-and-Fisheries-Management
+# Student-Management-System
 
 The Student Management System is a comprehensive application implemented in C++ that facilitates the management of student records. It provides functionality to add, display, search, update, and delete student information, offering a convenient solution for educational institutions to organize their student data effectively.
 
@@ -27,13 +27,13 @@ The Student Management System is a comprehensive application implemented in C++ 
 1. Compile the program using a C++ compiler.
 2. Run the compiled executable file.
 3. Follow the on-screen menu to navigate through the system's functionalities:
-      a. Add New Student: Enter student details when prompted.
-      b. Display All Students: View a list of all stored student records.
-      c. Search Student: Enter the roll number to find a specific student.
-      d. Update Student: Modify the information of an existing student.
-      e. Delete Student: Remove a specific student record from the system.
-      f. Delete All Students: Clear all student records from the system.
-      g. Exit: Terminate the program.
+      1. Add New Student: Enter student details when prompted.
+      2. Display All Students: View a list of all stored student records.
+      3. Search Student: Enter the roll number to find a specific student.
+      4. Update Student: Modify the information of an existing student.
+      5. Delete Student: Remove a specific student record from the system.
+      5. Delete All Students: Clear all student records from the system.
+      7. Exit: Terminate the program.
 
 # Usage
 
